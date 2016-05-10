@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AprilHealth</string>
+    <string name="facebook_app_id">fb986915218012498</string>
+    <string name="please_wait_facebooklogin"> Please wait </string>
+    <string name="login_canceled_facebooklogin"> Login Canelled </string>
+    <string name="login_failed_facebooklogin"> Login Failed </string>
+    <string name="action_settings"> Logout </string>
+    <string name="title_activity_logout"> Mangalore Properties </string>
+    <string name="accessToken">EAACEdEose0cBAFbvOClqA39t9Wjm9rDguTC4INibbTsHbvxCec8uvZBApZAVyiWoXCoZBZCCCIrcfDUlmlQCiP5Mz9g866qtRITZCnVZCGXURKHOpXvwLOY6N7Eh2TsmsKaBod0HjmQukQmrNj4bOgmexdOmajUdySiLxm96qpRgZDZD</string>
+
+
+
+</resources>
